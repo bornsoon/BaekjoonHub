@@ -1,2 +1,15 @@
-# BaekjoonHub
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# 
+# 백준 & 프로그래머스 문제 풀이 목록
+
+프로그래머스의 경우, 푼 문제 목록에 대한 마이그레이션이 필요합니다.
+
+## 📚 프로그래머스
+### 🚀 0
+| 문제번호 | 링크 |
+| ----- | ----- |
+|181878. 원하는 문자열 찾기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181878.%E2%80%85%EC%9B%90%ED%95%98%EB%8A%94%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%B0%BE%EA%B8%B0/%EC%9B%90%ED%95%98%EB%8A%94%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%B0%BE%EA%B8%B0.py)|
+|181911. 부분 문자열 이어 붙여 문자열 만들기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181911.%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%9D%B4%EC%96%B4%E2%80%85%EB%B6%99%EC%97%AC%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/%EB%B6%80%EB%B6%84%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%9D%B4%EC%96%B4%E2%80%85%EB%B6%99%EC%97%AC%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|
+### 🚀 1
+| 문제번호 | 링크 |
+| ----- | ----- |
+|12932. 자연수 뒤집어 배열로 만들기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12932.%E2%80%85%EC%9E%90%EC%97%B0%EC%88%98%E2%80%85%EB%92%A4%EC%A7%91%EC%96%B4%E2%80%85%EB%B0%B0%EC%97%B4%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md)|
