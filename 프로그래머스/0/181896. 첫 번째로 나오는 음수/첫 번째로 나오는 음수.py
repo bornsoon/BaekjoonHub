@@ -1,2 +1,2 @@
 def solution(num_list):
-    return next((num_list.index(i) for i in num_list if i < 0), -1)
+    return next((i for i, j in enumerate(num_list) if j < 0), -1)
