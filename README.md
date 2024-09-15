@@ -7,6 +7,7 @@
 ### 🚀 Bronze
 | 문제번호 | 링크 |
 | ----- | ----- |
+|1008. A／B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1008.%E2%80%85A%EF%BC%8FB/A%EF%BC%8FB.py)|
 |1037. 약수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1037.%E2%80%85%EC%95%BD%EC%88%98/README.md)|
 ### 🚀 Silver
 | 문제번호 | 링크 |
