@@ -3,6 +3,5 @@ def solution(numbers, direction):
         answer = [numbers.pop()]
         answer += numbers
     else:
-        temp = [numbers.pop(0)]
-        answer = numbers + temp
+        answer = numbers + [numbers.pop(0)]
     return answer
