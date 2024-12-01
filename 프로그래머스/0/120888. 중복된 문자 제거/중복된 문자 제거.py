@@ -1,10 +1,8 @@
 def solution(my_string):
     answer = ''
-    my_set = set()
     
     for i in my_string:
-        if i not in my_set:
-            my_set.add(i)
+        if i not in answer:
             answer += i           
         
     return answer
