@@ -6,19 +6,16 @@ def solution(a, b):
 
     c = gcd(a, b)
     
-    a //= c
     b //= c
     
-    while True:
-        if b % 2 == 0:
+    while b % 2 == 0:
             b //= 2
-        else:
-            break
     while True:
         if b % 5 == 0:
             b //= 5
         else:
             break
+            
     if b == 1:
         return 1
     else:
